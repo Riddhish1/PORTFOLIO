@@ -2,6 +2,7 @@
   "name": "riddhish-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://riddhish1.github.io/PORTFOLIO",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
